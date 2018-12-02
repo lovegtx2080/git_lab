@@ -15,5 +15,6 @@ int main()
     cout << "Сумма a и b = " << a + b << endl;
     cout << "Разность a и b = " << a - b << endl;
     cout << "Multiplication a и b = " << a * b << endl;
+    cout << "Del a и b = " << a / b << endl;
 	return 0;
 }

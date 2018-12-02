@@ -3,6 +3,7 @@
 #include <conio.h>
 #include <math.h>
 using namespace std;
+//uchebnaya
 int main()
 {
     int a, b;

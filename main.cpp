@@ -11,6 +11,6 @@ int main()
 	cin >> a;
 	cout << "¬ведите b: ";
 	cin >> b;
-
+    cout << "—умма a и b = " << a + b << endl;
 	return 0;
 }

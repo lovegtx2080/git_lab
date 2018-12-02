@@ -12,5 +12,6 @@ int main()
 	cout << "Введите b: ";
 	cin >> b;
     cout << "Сумма a и b = " << a + b << endl;
+    cout << "Разность a и b = " << a - b << endl;
 	return 0;
 }
